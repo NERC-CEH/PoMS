@@ -1,2 +1,2 @@
 # PoMs-app
-About PoMS app &amp; Website
+About PoMS Website
